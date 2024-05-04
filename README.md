@@ -8,6 +8,7 @@ You can review the project content, change the title and apply it again.
 
 The visual of the project is below.
 
+![Animation](https://github.com/oranmehmetsirin/CRUD-2/blob/main/gif.gif?raw=true)
 
 
 # Getting Started with Create React App
